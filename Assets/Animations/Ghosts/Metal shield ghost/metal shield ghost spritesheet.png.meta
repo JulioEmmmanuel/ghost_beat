@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: fb28e602625c7a74fa41b99911b64369
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4237678315052498698
+    second: metal shield ghost spritesheet_0
+  - first:
+      213: -7470878737472299497
+    second: metal shield ghost spritesheet_1
+  - first:
+      213: 3948756263348052503
+    second: metal shield ghost spritesheet_2
+  - first:
+      213: 5443929390619327134
+    second: metal shield ghost spritesheet_3
+  - first:
+      213: -4656544068427116534
+    second: metal shield ghost spritesheet_4
+  - first:
+      213: 7680984639432220725
+    second: metal shield ghost spritesheet_5
+  - first:
+      213: -7879846691129299668
+    second: metal shield ghost spritesheet_6
+  - first:
+      213: -8727810225276001740
+    second: metal shield ghost spritesheet_7
+  - first:
+      213: -1637782848539830851
+    second: metal shield ghost spritesheet_8
+  - first:
+      213: 6440700639417445702
+    second: metal shield ghost spritesheet_9
+  - first:
+      213: 3318651524791460091
+    second: metal shield ghost spritesheet_10
+  - first:
+      213: -773013319080414814
+    second: metal shield ghost spritesheet_11
+  - first:
+      213: -7184461731168183975
+    second: metal shield ghost spritesheet_12
+  - first:
+      213: -4944519463744386267
+    second: metal shield ghost spritesheet_13
+  - first:
+      213: 395983309489415100
+    second: metal shield ghost spritesheet_14
+  - first:
+      213: 2628917334461969990
+    second: metal shield ghost spritesheet_15
+  - first:
+      213: 2950505901862143961
+    second: metal shield ghost spritesheet_16
+  - first:
+      213: 6371774803131584095
+    second: metal shield ghost spritesheet_17
+  - first:
+      213: 3442627144468173004
+    second: metal shield ghost spritesheet_18
+  - first:
+      213: 7747719973448241335
+    second: metal shield ghost spritesheet_19
+  - first:
+      213: 5067255648520953490
+    second: metal shield ghost spritesheet_20
+  - first:
+      213: 6145592342476524654
+    second: metal shield ghost spritesheet_21
+  - first:
+      213: 4042511372301968390
+    second: metal shield ghost spritesheet_22
+  - first:
+      213: -5975601767321186434
+    second: metal shield ghost spritesheet_23
+  - first:
+      213: -8072362829152054226
+    second: metal shield ghost spritesheet_24
+  - first:
+      213: -1449415031498830821
+    second: metal shield ghost spritesheet_25
+  - first:
+      213: 3061922325544064937
+    second: metal shield ghost spritesheet_26
+  - first:
+      213: -217253120929613902
+    second: metal shield ghost spritesheet_27
+  - first:
+      213: 1857329173804825289
+    second: metal shield ghost spritesheet_28
+  - first:
+      213: -1204718902304313042
+    second: metal shield ghost spritesheet_29
+  - first:
+      213: 260108485631726774
+    second: metal shield ghost spritesheet_30
+  - first:
+      213: 2097376139871848512
+    second: metal shield ghost spritesheet_31
+  - first:
+      213: 129100456688774192
+    second: metal shield ghost spritesheet_32
+  - first:
+      213: -6555012408690024819
+    second: metal shield ghost spritesheet_33
+  - first:
+      213: 4552098362586375390
+    second: metal shield ghost spritesheet_34
+  - first:
+      213: -1891956958596607998
+    second: metal shield ghost spritesheet_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 277
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f08bee460eb035c0800000000000000
+      internalID: -4237678315052498698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 277
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ed1f4ee5b125890800000000000000
+      internalID: -7470878737472299497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 277
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712a57d66ecccc630800000000000000
+      internalID: 3948756263348052503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 277
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a7c2600f8bc8b40800000000000000
+      internalID: 5443929390619327134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 277
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00137857d1a06fb0800000000000000
+      internalID: -4656544068427116534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 277
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530e69e75d6589a60800000000000000
+      internalID: 7680984639432220725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 275
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d63b20f2925a290800000000000000
+      internalID: -7879846691129299668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 276
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432e66f87d690e680800000000000000
+      internalID: -8727810225276001740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 276
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db55e853d2d6549e0800000000000000
+      internalID: -1637782848539830851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 233
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dab157b17f16950800000000000000
+      internalID: 6440700639417445702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 234
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0e0849af73e0e20800000000000000
+      internalID: 3318651524791460091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 234
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1f09d5b74b545f0800000000000000
+      internalID: -773013319080414814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 233
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9591553de1aab4c90800000000000000
+      internalID: -7184461731168183975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 233
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bc282beb9816bb0800000000000000
+      internalID: -4944519463744386267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 234
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3a913d8b0de7500800000000000000
+      internalID: 395983309489415100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 230
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646f878136acb7420800000000000000
+      internalID: 2628917334461969990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 230
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7cf2c3c7d42f820800000000000000
+      internalID: 2950505901862143961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 230
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e4171ac671d6850800000000000000
+      internalID: 6371774803131584095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 192
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc09428e52ba6cf20800000000000000
+      internalID: 3442627144468173004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 192
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0d494444e658b60800000000000000
+      internalID: 7747719973448241335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 193
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ede243a22825640800000000000000
+      internalID: 5067255648520953490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 194
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c8cabbca7894550800000000000000
+      internalID: 6145592342476524654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 195
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604298acca2e91830800000000000000
+      internalID: 4042511372301968390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 195
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fcf9b4ad5621da0800000000000000
+      internalID: -5975601767321186434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 194
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24135ea6c439ff80800000000000000
+      internalID: -8072362829152054226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 194
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c866b45b4a2ebe0800000000000000
+      internalID: -1449415031498830821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 194
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a754efd1222e7a20800000000000000
+      internalID: 3061922325544064937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 145
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b735a400792cfcf0800000000000000
+      internalID: -217253120929613902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 145
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca3b930b0f86c910800000000000000
+      internalID: 1857329173804825289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 145
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21f3fd8a8af74fe0800000000000000
+      internalID: -1204718902304313042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 145
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4d4212a471c9300800000000000000
+      internalID: 260108485631726774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 145
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0480171ac706b1d10800000000000000
+      internalID: 2097376139871848512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 145
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c664d6e28aac100800000000000000
+      internalID: 129100456688774192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 145
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ed0c9b1fae705a0800000000000000
+      internalID: -6555012408690024819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 145
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4299cb75d4c2f30800000000000000
+      internalID: 4552098362586375390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: metal shield ghost spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 145
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20055809b2b6eb5e0800000000000000
+      internalID: -1891956958596607998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
